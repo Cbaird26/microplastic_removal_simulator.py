@@ -1,0 +1,8 @@
+streamlit
+networkx
+matplotlib
+sympy
+PyWavelets
+pandas
+scipy
+numpy
